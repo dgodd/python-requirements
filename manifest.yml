@@ -1,0 +1,4 @@
+---
+applications:  
+- name: ncc-survival
+  command: mainApp.py
