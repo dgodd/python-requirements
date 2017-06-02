@@ -1,4 +1,6 @@
 ---
-applications:  
+applications:
 - name: ncc-survival
-  command: mainApp.py
+  memory: 1GB
+  disk_quota: 2GB
+  command: python mainApp.py
