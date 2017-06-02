@@ -1,4 +1,0 @@
-numpy
-lifelines
-pandas
-scikit-learn
