@@ -3,6 +3,10 @@ import pytest
 import os
 import importlib
 import sys
+import numpy as np
+import pandas as pd
+from sklearn.externals import joblib
+import time
 
 MODULE_NAMES = ['numpy', 'sklearn', 'pandas', 'lifelines']
 modules = {}

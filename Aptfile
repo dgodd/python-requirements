@@ -1,0 +1,5 @@
+libblas3
+libgfortran3
+liblapack3
+libumfpack5.6.2
+gfortran

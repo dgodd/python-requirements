@@ -1,4 +1,8 @@
-numpy
+flask
 lifelines
+nose
+numpy
 pandas
+pytest
 scikit-learn
+scipy
